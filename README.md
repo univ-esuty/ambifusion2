@@ -18,7 +18,7 @@ Generated Ambigram (Image pair ambigrams)
 ![ex-3](_git/ex-3.JPG)
 
 ## Experiment Setup
-Set up [diffusers][https://github.com/huggingface/diffusers/) environment.
+Set up [diffusers](https://github.com/huggingface/diffusers/) environment.
 
 ## Demo
 #### Gradio
@@ -44,4 +44,4 @@ python ambigram_sample_hr.py
 
 ## Customize
 You can change base generation model to other models such as `StableDiffusion`.  
-But you might change some of codes for the pipeline.
+But you might change some of the codes in the ambigram_pipeline.
