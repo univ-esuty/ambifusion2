@@ -8,13 +8,13 @@ Therefore, The model can generate a variety of ambigram images, not only alphabe
 In the following demo codes, we use [deep-floyed/IF](https://github.com/deep-floyd/IF) models as generation modules in the reverse process.
 
 #### Generated Examples.
-Generated Ambigram (Alphabet pair ambigrams)  
+♦ Alphabet pair ambigrams  
 ![ex-1](_git/ex-1.JPG)
 
-Generated Ambigram ("A↕Y" ambigrams with different styles)
+♦ "A↕Y" ambigrams with different styles
 ![ex-2](_git/ex-2.JPG)
 
-Generated Ambigram (Image pair ambigrams)
+♦ Image pair ambigrams
 ![ex-3](_git/ex-3.JPG)
 
 ## Experiment Setup
