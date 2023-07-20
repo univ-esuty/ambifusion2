@@ -14,7 +14,7 @@ from diffusers.pipelines.deepfloyd_if.safety_checker import IFSafetyChecker
 from diffusers.pipelines.deepfloyd_if.watermark import IFWatermarker
 from diffusers.utils import replace_example_docstring, randn_tensor
 
-EXAMPLE_DOC_STRING = "Sorry, No Examples is available."
+EXAMPLE_DOC_STRING = "Sorry, No Example is available."
 
 class IFAmbigramPipeline(IFPipeline):
     def __init__(
