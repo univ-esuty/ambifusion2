@@ -1,5 +1,6 @@
 # Visual Ambigrams
-This is the updated version of [Ambifusion](https://github.com/univ-esuty/ambifusion).  
+This is the updated version of [Ambifusion](https://github.com/univ-esuty/ambifusion). 
+Our proposed model can generate ambigram images from two different text conditions.
 You can see the details of ambifusion(ver.1) in this paper: [ArXiv](https://arxiv.org/abs/2306.12049).  
 
 ## Abstract
