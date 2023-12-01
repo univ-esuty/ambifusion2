@@ -1,4 +1,4 @@
-# Ambifusion2 
+# Visual Ambigrams
 This is the updated version of [Ambifusion](https://github.com/univ-esuty/ambifusion).  
 You can see the details of ambifusion(ver.1) in this paper: [ArXiv](https://arxiv.org/abs/2306.12049).  
 
